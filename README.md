@@ -2,9 +2,8 @@
 
 This project was part of Spacecraft Dynamics and Control course. The repo contains the report and all the codes used for the project.
 
-![](Small_oscillation_sat_1m.mp4)
-<!-- <video controls src="Small_oscillation_sat_1m.mp4" title="Oscillation of dumbbell satellite with no spin intially
-"></video> -->
+https://github.com/user-attachments/assets/9591d3aa-4e19-46ff-b501-e89ff1fb0b1b
+
 
 ## Contents
 - **Dumbell_sat_sim.py**
